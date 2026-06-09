@@ -20,3 +20,12 @@ A structured repository containing foundational to advanced Python exercises, ca
 | **Phase 4** | Implement encapsulation with a private password attribute and an internal check method. | `phase4_oop/encapsulation.py` |
 | **Phase 4** | Simulate method overloading using a default argument in a notification service. | `phase4_oop/method_overloading.py` |
 | **Phase 4** | Create an Abstract Base Class for a data repository and implement concrete methods in a child SQL class. | `phase4_oop/abstraction.py` |
+| **Phase 5** | Create a custom NegativeBalanceError exception and apply it to a Wallet withdrawal method. | [phase5_exceptions_and_fileOperations/custom_exception.py](phase5_exceptions_and_fileOperations/custom_exception.py) |
+| **Phase 5** | Use context managers to write names to a text file, then read and print the output. | [phase5_exceptions_and_fileOperations/file_operations.py](phase5_exceptions_and_fileOperations/file_operations.py) |
+| **Phase 5** | Serialize a dictionary to JSON, and handle a FileNotFoundError when reading a missing file. | [phase5_exceptions_and_fileOperations/json_and_exceptions.py](phase5_exceptions_and_fileOperations/json_and_exceptions.py) |
+| **Phase 6** | Use list comprehensions to convert Celsius to Fahrenheit with a conditional filter. | [phase6_advanced_python/list_comprehensions.py](phase6_advanced_python/list_comprehensions.py) |
+| **Phase 6** | Implement a generator function using yield to efficiently produce even numbers. | [phase6_advanced_python/generator.py](phase6_advanced_python/generator.py) |
+| **Phase 6** | Create a security decorator to wrap and modify the behavior of a database deletion function. | [phase6_advanced_python/decorator.py](phase6_advanced_python/decorator.py) |
+| **Phase 7** | Simulate an API fetch, parsing JSON payloads and handling HTTP status codes. | [phase7_practical_application/mock_api_fetch.py](phase7_practical_application/mock_api_fetch.py) |
+| **Phase 7** | Connect to SQLite, construct a table, insert parameters, and verify with a SELECT statement. | [phase7_practical_application/sqlite_db.py](phase7_practical_application/sqlite_db.py) |
+| **Phase 7** | Process a list of dictionaries and generate a properly formatted CSV file with headers. | [phase7_practical_application/csv_generator.py](phase7_practical_application/csv_generator.py) |
